@@ -41,13 +41,13 @@
 <distributionManagement>
     <repository>
         <id>sym</id>
-        <name>release softx</name>
-        <url>http://13.233.69.88:8081/repository/maven-releases/</url>
+        <name>release-1</name>
+        <url>http://13.232.130.90:8081/repository/Release/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
-        <name>snapshot softx</name>
-        <url>http://13.233.69.88:8081/repository/maven-snapshots/</url>
+        <name>snapshot-1</name>
+        <url>http://13.232.130.90:8081/repository/snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
