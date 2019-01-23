@@ -47,7 +47,7 @@
     <snapshotRepository>
         <id>snapshot</id>
         <name>snapshot</name>
-        <url>http://13.232.130.90:8081/repository/snapshot//</url>
+        <url>http://13.232.130.90:8081/repository/snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
