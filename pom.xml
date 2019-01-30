@@ -42,12 +42,12 @@
     <repository>
         <id>snapshot</id>
         <name>snapshot</name>
-        <url>http://13.232.130.90:8081/repository/Release/</url>
+        <url>http://52.66.137.126:8081/repository/Release/</url>
     </repository>
     <snapshotRepository>
         <id>snapshot</id>
         <name>snapshot</name>
-        <url>http://13.232.130.90:8081/repository/snapshot/</url>
+        <url>http://52.66.137.126:8081/repository/Snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
